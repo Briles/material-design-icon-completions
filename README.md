@@ -1,4 +1,4 @@
-### [Material Design Icon](http://www.emoji-cheat-sheet.com/) completions for Sublime Text
+### [Material Design Icon](https://design.google.com/icons/) completions for Sublime Text
 
 To complete ligatures, type `li` followed by the icon name you want to complete.
 
